@@ -47,7 +47,7 @@ Step 3: Attaching files
 
 (Particle effect for smell)
 
-<img width="369" alt="3" src="https://github.com/SVaishnaviVasa/Chem-Lab/assets/120392585/1940beb4-6070-4fdb-a02f-7db553add2f0">
+<img width="737" alt="4" src="https://github.com/SVaishnaviVasa/Chem-Lab/assets/120392585/4bad00fd-d43a-4f3c-bbb4-3c01c5ef6003">
 
 <img width="730" alt="Screenshot 2024-04-15 170731" src="https://github.com/SVaishnaviVasa/Chem-Lab/assets/120392585/af5dfece-1126-4b9d-b7b3-e7c98359ac4e">
 
